@@ -1,0 +1,52 @@
+@media (max-width: 1000px) {
+  .sideBarHideShow {
+    display: none;
+  }
+  .hamberIcon {
+    visibility: visible;
+  }
+ 
+  .dmt-sidebar .logo svg {
+    cursor: pointer;
+    display: flex;
+  }
+  footer.dmt-footer {
+    margin-left: 10px;
+  }
+  /* .dmt-mainWrp {
+    margin-left: 10px;
+    margin-right: 10px;
+  } */
+  
+}
+
+@media (max-width:600px){
+  .headerLeft .title{
+    font-size: 13px;
+  }
+  .headerRight .content{
+   display: none!important;
+  }
+  .widget-wrapper{
+    min-width: 100%;
+    padding:50px 10px;
+  }
+  .personalEditBtn{
+    
+    top: 1%;
+  }
+  .headerRight ul li{
+    gap: 1px;
+    
+  }
+  .headerRight ul li a{
+    padding: 16px 15px;
+
+  }
+  .headerRight ul li a span{
+    display: none;
+  }
+  .headerLeft .title {
+    display: none;
+  }
+}

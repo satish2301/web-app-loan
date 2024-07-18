@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "E:\\DIALMYTRIP DOTNET WITH REACT\\LoalWeb\\LoalWeb.Server\\..\\loalweb.client",
+"MaxTimeoutInSeconds": "120"
+}
+}

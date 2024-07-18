@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoalWeb.Server", "LoalWeb.Server\LoalWeb.Server.csproj", "{2287D911-B2C8-444A-B877-2C52B88E055B}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "loalweb.client", "loalweb.client\loalweb.client.esproj", "{90294C44-76A8-4504-8DEA-CD1706A67466}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2287D911-B2C8-444A-B877-2C52B88E055B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2287D911-B2C8-444A-B877-2C52B88E055B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2287D911-B2C8-444A-B877-2C52B88E055B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2287D911-B2C8-444A-B877-2C52B88E055B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90294C44-76A8-4504-8DEA-CD1706A67466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90294C44-76A8-4504-8DEA-CD1706A67466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90294C44-76A8-4504-8DEA-CD1706A67466}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{90294C44-76A8-4504-8DEA-CD1706A67466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90294C44-76A8-4504-8DEA-CD1706A67466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90294C44-76A8-4504-8DEA-CD1706A67466}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9217C215-DDAA-4F51-9EC4-D403ADA7AECA}
+	EndGlobalSection
+EndGlobal
